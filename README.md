@@ -19,4 +19,4 @@ pour executer le fichier sur votre pc (windows, mac(OSX), linux):
   - vous pouvez créer un environement virtuel pour python [OPTIONELLE]
   - installez le module kandinsky via pypi ou avec '''pip install kandinsky'''
   - et le module '''pip install ion-numworks''' [aussi sur pypi] avec une documentation
-disponible sur le site de numworks https://my.numworks.com/python/baguette-berladin/spaice_invadeurs
+  - disponible sur le site de numworks https://my.numworks.com/python/baguette-berladin/spaice_invadeurs

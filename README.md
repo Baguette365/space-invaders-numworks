@@ -11,6 +11,9 @@ to run this file on a computor(windows, OSX(mac), linux):
 
 on the numworks website https://my.numworks.com/python/baguette-berladin/spaice_invadeurs
 [these 130 lgine of code was entierly writen on the numworks calculator]
+
+
+
 [Francais]
 ceci est une copie du jeu des année 80 'space invaders' pour les calculatrices numworks,
 tout systeme d'exploitation numworks sont compatible,

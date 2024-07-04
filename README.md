@@ -1,8 +1,8 @@
 # space-invaders
 [English]
-this a copy of the 80's game named space invaders for the numworks calculator
-this work on any OS for the numworks[Epsilon, Upsilon, Omega-numworks]
-this was made to work with no external script
+this a copy of the 80's game named space invaders for the numworks calculator.
+this work on any OS for the numworks[Epsilon, Upsilon, Omega-numworks].
+this was made to work with no external script,
 to run this file on a computor(windows, OSX(mac), linux):
   - create a virtual python evironement(.venv) [OPTIONAL]
   - tip in your terminal '''pip install kandinsky'''
@@ -12,9 +12,9 @@ to run this file on a computor(windows, OSX(mac), linux):
 on the numworks website https://my.numworks.com/python/baguette-berladin/spaice_invadeurs
 
 [Francais]
-ceci est une copie du jeu des année 80 'space invaders' pour les calculatrices numworks
-tout systeme d'exploitation numworks sont compatible
-il fonctionne sans script externe
+ceci est une copie du jeu des année 80 'space invaders' pour les calculatrices numworks,
+tout systeme d'exploitation numworks sont compatible,
+il fonctionne sans script externe,
 pour executer le fichier sur votre pc (windows, mac(OSX), linux):
   - vous pouvez créer un environement virtuel pour python [OPTIONELLE]
   - installez le module kandinsky via pypi ou avec '''pip install kandinsky'''

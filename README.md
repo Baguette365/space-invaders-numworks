@@ -16,7 +16,7 @@ ceci est une copie du jeu des année 80 'space invaders' pour les calculatrices 
 tout systeme d'exploitation numworks sont compatible
 il fonctionne sans script externe
 pour executer le fichier sur votre pc (windows, mac(OSX), linux):
-  -vous pouvez créer un environement virtuel pour python [OPTIONELLE]
-  -installez le module kandinsky via pypi ou avec '''pip install kandinsky'''
+  - vous pouvez créer un environement virtuel pour python [OPTIONELLE]
+  - installez le module kandinsky via pypi ou avec '''pip install kandinsky'''
   - et le module '''pip install ion-numworks''' [aussi sur pypi] avec une documentation
 disponible sur le site de numworks https://my.numworks.com/python/baguette-berladin/spaice_invadeurs

@@ -10,7 +10,7 @@ to run this file on a computor(windows, OSX(mac), linux):
   - and you need to have default library of python 3.x
 
 on the numworks website https://my.numworks.com/python/baguette-berladin/spaice_invadeurs
-[these 130 lgine of code was entierly writen on the numworks calculator]
+[these 130 line of code was entierly writen on the numworks calculator]
 
 
 

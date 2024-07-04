@@ -9,6 +9,8 @@ to run this file on a computor(windows, OSX(mac), linux):
   - and tip '''pip install ion-numworks'''
   - and you need to have default library of python 3.x
 
+on the numworks website https://my.numworks.com/python/baguette-berladin/spaice_invadeurs
+
 [Francais]
 ceci est une copie du jeu des année 80 'space invaders' pour les calculatrices numworks
 tout systeme d'exploitation numworks sont compatible
@@ -17,3 +19,4 @@ pour executer le fichier sur votre pc (windows, mac(OSX), linux):
   -vous pouvez créer un environement virtuel pour python [OPTIONELLE]
   -installez le module kandinsky via pypi ou avec '''pip install kandinsky'''
   - et le module '''pip install ion-numworks''' [aussi sur pypi] avec une documentation
+disponible sur le site de numworks https://my.numworks.com/python/baguette-berladin/spaice_invadeurs

@@ -12,6 +12,8 @@ to run this file on a computor(windows, OSX(mac), linux):
 on the numworks website https://my.numworks.com/python/baguette-berladin/spaice_invadeurs
 [these 130 line of code was entierly writen on the numworks calculator]
 
+an opimised and upgraded version is here! : https://github.com/Baguette365/Shoot_Em_Up-NumWorks
+
 
 
 [Francais]
@@ -24,3 +26,11 @@ pour executer le fichier sur votre pc (windows, mac(OSX), linux):
   - et le module '''pip install ion-numworks''' [aussi sur pypi] avec une documentation
   - disponible sur le site de numworks https://my.numworks.com/python/baguette-berladin/spaice_invadeurs
 [130 ligne de code écrite a 100% sur calculatrice]
+
+une version alégée et plus ergonomique disponible ici avec:
+
+  - le défilement des étoiles
+  - des enemies inteligents
+  - et bien d'autre ici :
+
+https://github.com/Baguette365/Shoot_Em_Up-NumWorks
